@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sign_out"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Sign Out" />
+
+    <item
+        android:id="@+id/serach"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_error_outline_black_24dp"
+        android:title="About" />
+
+</menu>

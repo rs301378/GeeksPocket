@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "847381706918",
+    "firebase_url": "https://geekspocket-1bd98.firebaseio.com",
+    "project_id": "geekspocket-1bd98",
+    "storage_bucket": "geekspocket-1bd98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847381706918:android:d58e99e648d13d97",
+        "android_client_info": {
+          "package_name": "geekspocket.farziengineers.com.geekspocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847381706918-2vl4f8m2nc6vioe5m495448r28an8cr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "geekspocket.farziengineers.com.geekspocket",
+            "certificate_hash": "c5cd5198f3e4b069cdc68c9b9f34c92c48ff9fe3"
+          }
+        },
+        {
+          "client_id": "847381706918-itqoecljbmki391h8nnts60nf4gco07u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "geekspocket.farziengineers.com.geekspocket",
+            "certificate_hash": "4b16567009d6620e82570e01c37aaa982ca329f9"
+          }
+        },
+        {
+          "client_id": "847381706918-3npvpk0rg73sc89fo0frb6e1d26o9o0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZH9KowG7gCwJ3p7SJQoTWr4_zVper4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847381706918-3npvpk0rg73sc89fo0frb6e1d26o9o0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
